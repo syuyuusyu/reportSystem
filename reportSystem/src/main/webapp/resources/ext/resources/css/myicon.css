@@ -1,0 +1,27 @@
+.bar {
+	background-image: url(../themes/images/barChart.png) !important
+}
+
+.pie {
+	background-image: url(../themes/images/pieChart.jpg) !important
+}
+
+.line {
+	background-image: url(../themes/images/lineChart.jpg) !important
+}
+
+.print {
+	background-image: url(../themes/images/printer.png) !important
+}
+
+.excel {
+	background-image: url(../themes/images/excel.gif) !important
+}
+
+.report-edit{
+	background-image: url(../themes/images/report_edit.png) !important
+}
+
+.report-add {
+	background-image: url(../themes/images/report_add.png) !important
+}
